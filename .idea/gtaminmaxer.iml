@@ -18,5 +18,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: Arquillian JUnit:Release" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/net-datastructures-6-0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/net-datastructures-6-0.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
