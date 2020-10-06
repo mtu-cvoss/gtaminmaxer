@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="gtaminmaxer" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/net-datastructures-6-0.jar" />
+          <element id="library" level="project" name="Maven: Arquillian JUnit:Release" />
+        </element>
       </element>
     </root>
   </artifact>
